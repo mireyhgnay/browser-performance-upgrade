@@ -24,6 +24,11 @@
 
 ## TIL
 
-- [2023-07-25](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-07-25.md)
+```
+일단 이것저것 시도해서 코드를 짜 본다.
+그 다음에 꼭 리팩토링 및 코드 이해를 하는 시간을 가져야한다.
+작업하면서 본 코드를 공부하는 것 보다 그 작업한 코드에서 해당 메소드는 어떤 역할을 하는가? 에 대해서 공부한다.
+```
 
+- [2023-07-25](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-07-25.md)
 - [2023-07-26]()
