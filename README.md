@@ -34,4 +34,4 @@
 - [2023-07-26](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-07-26.md)
 - [2023-07-28](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-07-28.md)
 - [2023-08-03](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-08-03.md)
-- [2023-08-07]()
+- [2023-08-07](https://github.com/mireyhgnay/browser-performance-upgrade/blob/main/TIL/2023-08-07.md)
