@@ -22,6 +22,14 @@
 <br>
 <br>
 
+## 프로젝트 회고
+
+[🔗 Notion - 티몬 메인 PC 홈 브라우저 성능 개선](https://hyerimiya.notion.site/PC-5f0550cd0fa548ddafa821551b3c7987?pvs=4)
+
+
+<br>
+<br>
+
 ## TIL
 
 ```
